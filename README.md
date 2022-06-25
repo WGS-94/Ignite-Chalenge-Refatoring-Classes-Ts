@@ -25,6 +25,12 @@ Nesse desafio, você deverá criar uma aplicação para treinar o que 
 
 Essa será uma aplicação já funcional onde o seu principal objetivo é realizar dois processos de migração: de Javascript para Typescript e de Class Components para Function Components.
 
+<!--
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/0n0zDN7zbzhRbaEO74Xesx/ToDo-List/duplicate). Lembrando que você  precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
+-->
+
 ## 🖼️ Imagens do Projeto
 <div align="center">
   <img src="https://user-images.githubusercontent.com/87288949/175750694-0d0d6c10-01af-435b-911a-40c10689ff49.PNG">
