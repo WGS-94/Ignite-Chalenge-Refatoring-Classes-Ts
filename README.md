@@ -1,5 +1,3 @@
-# Ignite-Chalenge-Refatoring-Classes-Ts
-Desafio 02 - Refactoring de classes e typescript
 <!-- Logotipo 
 <div align="center">
   <img src="./Assets/ignite.png">
@@ -28,9 +26,9 @@ Nesse desafio, você deverá criar uma aplicação para treinar o que 
 Essa será uma aplicação já funcional onde o seu principal objetivo é realizar dois processos de migração: de Javascript para Typescript e de Class Components para Function Components.
 
 ## 🖼️ Imagens do Projeto
-<!--<div align="center">
-  <img src="https://user-images.githubusercontent.com/87288949/171734865-0a9a1673-8cc5-4289-afe1-8f8e736359fb.PNG">
-</div>-->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/87288949/175750694-0d0d6c10-01af-435b-911a-40c10689ff49.PNG">
+</div>
 
 ## 🧰 Tecnologias e Bibliotecas
 
