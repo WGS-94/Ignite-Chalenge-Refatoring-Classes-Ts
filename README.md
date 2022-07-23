@@ -39,14 +39,14 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 ## 🧰 Tecnologias e Bibliotecas
 
 * [ReactJS](https://pt-br.reactjs.org/tutorial/tutorial.html)
-  * [Styled Component](https://www.npmjs.com/package/styled-components) - Biblioteca CSS in JS
+  * [Styled Component](https://www.npmjs.com/package/styled-components)
   * [Axios](https://www.npmjs.com/package/axios)
   * [React Modal](https://www.npmjs.com/package/react-modal)
   * [Polished](https://www.npmjs.com/package/polished)
 * [TypeScript](https://www.typescriptlang.org/)
 
 ### Tools para criar API Fake
- * [JSO Server]()
+ * [JSON Server]()
 
 ## ⚙️ Rodando o Projeto
 ```bash
